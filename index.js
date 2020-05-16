@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+
 <html lang="es-mx">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Ejercicios U4</title>
-    <!-- Bootstrap CSS -->
+    
     <link
       rel="stylesheet"
       href="https://bootswatch.com/4/sketchy/bootstrap.min.css"
@@ -22,7 +22,6 @@
       </h4>
 
       <div id="Lista" class="list-group">
-        <!-- Generate by auto.js-->
       </div>
     </div>
 
