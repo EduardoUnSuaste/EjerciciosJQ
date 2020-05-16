@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+
+</head>
+
+<body>
+    <div data-role="page" id="pageone">
+        <div data-role="main" class="ui-content">
+            <h2>Haga clic en los iconos de engranajes!</h2>
+            <ul data-role="listview" data-inset="true">
+                <li data-role="divider">Navegadores</li>
+                <li>
+                    <a href="#">
+                        <img src="https://download.seaicons.com/download/i80714/johnathanmac/mavrick/johnathanmac-mavrick-chrome.ico">
+                        <h2>Google Chrome</h2>
+                        <p>Google Chrome es un navegador web gratuito de código abierto. Lanzado en 2008.</p>
+                    </a>
+                    <a href="#download" data-transition="pop" data-icon="gear">Descargar Browser</a>
+                </li>
+
+                <li>
+                    <a href="#">
+                        <img src="https://download.seaicons.com/download/i44718/morcha/browsers/morcha-browsers-firefox.ico">
+                        <h2>Mozilla Firefox</h2>
+                        <p>Firefox es un navegador web de Mozilla. Lanzado en 2004.</p>
+                    </a>
+                    <a href="#download" data-transition="pop" data-icon="gear">Descargar Browser</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div data-role="page" id="download" data-dialog="true">
+        <div data-role="main" class="ui-content">
+            <h3>Ejemplo de botón dividido</h3>
+            <p>Los botones de abajo son solo para fines de demostración..</p>
+            <a href="#"
+                class="ui-btn ui-btn-inline ui-btn-b ui-shadow ui-corner-all ui-icon-check ui-btn-icon-left ui-btn-inline ui-mini"
+                data-rel="back">Descargar</a>
+            <a href="#" class="ui-btn ui-btn-inline ui-shadow ui-corner-all ui-btn-inline ui-mini"
+                data-rel="back">Cancelar</a>
+        </div>
+    </div>
+</body>
+
+</html>

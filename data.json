@@ -1,0 +1,307 @@
+[
+  {
+    "title": "Como Crear una pagina.",
+    "description": "Utilizar navegadores como chrome o firefox.",
+    "url": "63_Ejercicios/3.html"
+  },
+  {
+    "title": "Usando Páginas como Diálogos (JQueryMobile)",
+    "description": "Un cuadro de diálogo es un tipo de ventana que se utiliza para mostrar información especial.",
+    "url": "63_Ejercicios/4.html"
+  },
+  {
+    "title": "Transiciones con ventanas",
+    "description": "jQuery Mobile incluye efectos CSS3 que te permiten elegir la forma en que debería abrirse una página.",
+    "url": "63_Ejercicios/5.html"
+  },
+  {
+    "title": "Botones en JQuery Mobile",
+    "description": "Las aplicaciones móviles se basan en la simplicidad de tocar las cosas que desea mostrar.",
+    "url": "63_Ejercicios/6.html"
+  },
+  {
+    "title": "Iconos de botones",
+    "description": "jQuery Mobile proporciona un conjunto de iconos que harán que tus botones se vean más bonitos.",
+    "url": "63_Ejercicios/7.html"
+  },
+  {
+    "title": "Ventanas Popups",
+    "description": "Los elementos emergentes son similares a los diálogos, ya que ambos se superponen a una parte de una página.",
+    "url": "63_Ejercicios/8.html"
+  },
+  {
+    "title": "Posicionamiento de ventanas emergentes",
+    "description": "Por defecto, las ventanas emergentes aparecerán directamente sobre el elemento pulsado. Para controlar la posición de la ventana emergente",
+    "url": "63_Ejercicios/9.html"
+  },
+  {
+    "title": "Transiciones en Popus",
+    "description": "Por defecto, las ventanas emergentes no tienen efectos de transición añadidos. Puede utilizar cualquiera de los efectos que presentamos en el capítulo 'Transiciones'.",
+    "url": "63_Ejercicios/10.html"
+  },
+  {
+    "title": "Ventanas con punta de flecha",
+    "description": "Para agregar una flecha al borde de la ventana emergente, use el atributo data-arrow=' ' y especifique el valor 'l' (izquierda), 't' (arriba), 'r' (derecha) o 'b' (abajo)",
+    "url": "63_Ejercicios/11.html"
+  },
+  {
+    "title": "Diálogos emergentes o modales",
+    "description": "Puede agregar una marca de diálogo estándar en una ventana emergente (encabezado, contenido y marca de pie de página)",
+    "url": "63_Ejercicios/12.html"
+  },
+  {
+    "title": "Fotos popup",
+    "description": "También puede mostrar imágenes en una ventana emergente",
+    "url": "63_Ejercicios/13.html"
+  },
+  {
+    "title": "Superposición de ventanas emergentes",
+    "description": "Puede controlar el color de fondo detrás de la ventana emergente (la página en sí) con el atributo data-overlay-theme.",
+    "url": "63_Ejercicios/14.html"
+  },
+  {
+    "title": "Barra de herramientas",
+    "description": "Los elementos de la barra de herramientas a menudo se colocan dentro de los encabezados y pies de página, para una navegación de 'fácil acceso'",
+    "url": "63_Ejercicios/15.html"
+  },
+  {
+    "title": "Barra de Herramientas en Pie Página",
+    "description": "El pie de página se encuentra en la parte inferior de la página.",
+    "url": "63_Ejercicios/16.html"
+  },
+  {
+    "title": "Posicionando encabezados y pies de página",
+    "description": "Use el atributo de posición de datos para posicionar sus encabezados y pies de página",
+    "url": "63_Ejercicios/17.html"
+  },
+  {
+    "title": "Mostrando solo iconos en la Barra de Herramientas",
+    "description": "Utilizando la clase ui-btn-icon-notext para mostrar solo el icono en los botones de encabezado y pie de página",
+    "url": "63_Ejercicios/18.html"
+  },
+  {
+    "title": "Barras de navegación",
+    "description": "Una barra de navegación consiste en un grupo de enlaces que se alinean horizontalmente.",
+    "url": "63_Ejercicios/19.html"
+  },
+  {
+    "title": "Barras de navegación con iconos",
+    "description": "Para agregar un ícono a su botón de navegación, use el atributo data-icon",
+    "url": "63_Ejercicios/20.html"
+  },
+  {
+    "title": "Posicionamiento de iconos en la Barra de Navegación",
+    "description": "Al igual que con la clase 'ui-btn-icon- position",
+    "url": "63_Ejercicios/21.html"
+  },
+  {
+    "title": "Botones Activos",
+    "description": "Cuando se toca / hace clic en un enlace en la barra de navegación",
+    "url": "63_Ejercicios/22.html"
+  },
+  {
+    "title": "Barras de Navegación en el contenido",
+    "description": "Se puede colocar barras de navegación en el contenido.\nTambién se puede agregar en el pie de pagina.",
+    "url": "63_Ejercicios/23.html"
+  },
+  {
+    "title": "Paneles en Query Mobile",
+    "description": "Los paneles en jQuery Mobile se deslizarán desde el lado izquierdo o derecho de la pantalla con contenido adicional.",
+    "url": "63_Ejercicios/24.html"
+  },
+  {
+    "title": "Visualización de Paneles",
+    "description": "Puede controlar el modo de visualización del panel con el atributo de visualización de datos",
+    "url": "63_Ejercicios/25.html"
+  },
+  {
+    "title": "Posicionamiento de Panel con respecto al contenido",
+    "description": "También puede especificar cómo se debe colocar el contenido del panel de acuerdo con el resto de la página cuando un usuario comienza a desplazarse.",
+    "url": "63_Ejercicios/26.html"
+  },
+  {
+    "title": "Elementos Colapsables o Desplegables",
+    "description": "Los elementos plegables le permiten ocultar o mostrar contenido, lo cual es útil para almacenar partes de información.",
+    "url": "63_Ejercicios/27.html"
+  },
+  {
+    "title": "Ventana Emergente con Contenido en Acordeón",
+    "description": "Se puede crear una ventana Popup (emergente) con contenido en acordeon.",
+    "url": "63_Ejercicios/28.html"
+  },
+  {
+    "title": "Eliminar esquinas redondeadas en los desplegables o acordeones",
+    "description": "Cómo eliminar las esquinas redondeadas y agregar un ancho completo en los elementos plegables, usando data-inset.",
+    "url": "63_Ejercicios/29.html"
+  },
+  {
+    "title": "Como hacer más pequeños los elementos desplegables o acordeon",
+    "description": "Cómo hacer más pequeños los elementos plegables.",
+    "url": "63_Ejercicios/30.html"
+  },
+  {
+    "title": "Cambio del icono con el icono de datos contraídos y el icono de datos expandidos",
+    "description": "Cómo cambiar el icono de los elementos plegables (el valor predeterminado es + y -).",
+    "url": "63_Ejercicios/31.html"
+  },
+  {
+    "title": "Tablas Responsivas",
+    "description": "El diseño responsivo es útil cuando desea que el contenido de su página web móvil responda al dispositivo del usuario, como su tamaño de pantalla y orientación.",
+    "url": "63_Ejercicios/32.html"
+  },
+  {
+    "title": "Grids",
+    "description": "jQuery Mobile proporciona un conjunto de diseños de columnas basados ​​en CSS. ",
+    "url": "63_Ejercicios/33.html"
+  },
+  {
+    "title": "List Views",
+    "description": "Las vistas de lista en jQuery Mobile son listas HTML estándar; ordenado 'ol' y desordenado 'ul'.",
+    "url": "63_Ejercicios/34.html"
+  },
+  {
+    "title": "Listas de solo lectura",
+    "description": "Para mostrar listas de solo lectura omitir agregar ligas, en cada elemento 'li'.",
+    "url": "63_Ejercicios/35.html"
+  },
+  {
+    "title": "Cómo insertar paneles en los elementos de su lista",
+    "description": "Cómo insertar paneles en los elementos de su lista.",
+    "url": "63_Ejercicios/36.html"
+  },
+  {
+    "title": "Lista con iconos",
+    "description": "El icono predeterminado para cada elemento de la lista que contiene un enlace es 'carat-r' (flecha derecha).",
+    "url": "63_Ejercicios/37.html"
+  },
+  {
+    "title": "Botones divididos en las listas",
+    "description": "jQuery Mobile colocará automáticamente el segundo enlace en el lado derecho de la lista con un icono de flecha derecha.",
+    "url": "63_Ejercicios/38.html"
+  },
+  {
+    "title": "Funcionalidad con botones divididos",
+    "description": "Se permite agregar algunas páginas y cuadros de diálogo para que los enlaces sean más funcionales",
+    "url": "63_Ejercicios/39.html"
+  },
+  {
+    "title": "Burbujas de conteo",
+    "description": "Las burbujas de recuento se utilizan para mostrar números asociados con elementos de lista, como mensajes en un buzón.",
+    "url": "63_Ejercicios/40.html"
+  },
+  {
+    "title": "Como crear listas emergentes",
+    "description": "Cómo crear una lista emergente.",
+    "url": "63_Ejercicios/41.html"
+  },
+  {
+    "title": "Listas desplegables",
+    "description": "Cómo crear listas que ocultan y muestran contenido.",
+    "url": "63_Ejercicios/42.html"
+  },
+  {
+    "title": "Lista Desplegable desplegable",
+    "description": "Cómo crear una lista desplegable.",
+    "url": "63_Ejercicios/43.html"
+  },
+  {
+    "title": "Elementos Filtreables",
+    "description": "Todos los elementos que tienen más de un elemento hijo, pueden ser filtrados.",
+    "url": "63_Ejercicios/44.html"
+  },
+  {
+    "title": "Filtrar listas desplegables",
+    "description": "Cómo filtrar un conjunto plegable de listas.",
+    "url": "63_Ejercicios/45.html"
+  },
+  {
+    "title": "Tablas filtreables",
+    "description": "Cómo filtrar una tabla.",
+    "url": "63_Ejercicios/46.html"
+  },
+  {
+    "title": "Filtrar elemento div con elementos",
+    "description": "Cómo filtrar un elemento 'div' que contiene elementos 'p' secundarios.",
+    "url": "63_Ejercicios/47.html"
+  },
+  {
+    "title": "Formularios",
+    "description": "jQuery Mobile crea estilos HTML de forma automática para que se vean atractivos y fáciles de usar(touch-friendly).",
+    "url": "63_Ejercicios/48.html"
+  },
+  {
+    "title": "Contenedores de Formularios",
+    "description": "Para hacer que las etiquetas y los elementos de formulario se vean correctamente en pantallas más anchas.",
+    "url": "63_Ejercicios/49.html"
+  },
+  {
+    "title": "Elementos de entrada de Formularios",
+    "description": "Los campos de entrada están codificados con elementos HTML estándar.",
+    "url": "63_Ejercicios/50.html"
+  },
+  {
+    "title": "Formularios en Popup",
+    "description": "También puede colocar su formulario dentro de una ventana emergente.",
+    "url": "63_Ejercicios/51.html"
+  },
+  {
+    "title": "Menu Select",
+    "description": "El elemento 'select' crea una lista desplegable con varias opciones. ",
+    "url": "63_Ejercicios/52.html"
+  },
+  {
+    "title": "Menús select personalizados",
+    "description": "Las plataformas móviles tienen su propia forma de mostrar un menú de selección.",
+    "url": "63_Ejercicios/53.html"
+  },
+  {
+    "title": "Control Group con Select Menu",
+    "description": "Cómo agrupar uno o más menús de selección.",
+    "url": "63_Ejercicios/54.html"
+  },
+  {
+    "title": "Control Group HORIZONTAL con Select Menu",
+    "description": "Cómo agrupar los menús de selección horizontalmente.",
+    "url": "63_Ejercicios/55.html"
+  },
+  {
+    "title": "Control Group PRESELECCIONAR OPCIÓN con Select Menu",
+    "description": "Cómo preseleccionar una opción.",
+    "url": "63_Ejercicios/56.html"
+  },
+  {
+    "title": "Control Group SELECCIONAR en POPUP con Select Men",
+    "description": "Cómo crear un menú de selección emergente.",
+    "url": "63_Ejercicios/57.html"
+  },
+  {
+    "title": "Control Group Menu Colapsable",
+    "description": "Cómo crear formularios plegables.",
+    "url": "63_Ejercicios/58.html"
+  },
+  {
+    "title": "Uso de Slider",
+    "description": "A slider te permite seleccionar un valor de un rango de valores.",
+    "url": "63_Ejercicios/59.html"
+  },
+  {
+    "title": "Uso de Flip Toggle Switch ",
+    "description": "Un interruptor giratorio se usa a menudo para los botones de encendido / apagado o verdadero / falso.",
+    "url": "63_Ejercicios/60.html"
+  },
+  {
+    "title": "Uso de DOBLE Flip Toggle Switch",
+    "description": "Uso de DOBLE Flip Toggle Switch",
+    "url": "63_Ejercicios/61.html"
+  },
+  {
+    "title": "Hacer Flip Toggle Switch mas ancho",
+    "description": "Cómo hacer que el flip switch sea más ancho.",
+    "url": "63_Ejercicios/62.html"
+  },
+  {
+    "title": "Usar Temas en las paginas",
+    "description": "jQuery Mobile proporciona dos temas de estilo diferentes, 'a' y 'b', cada uno con diferentes colores para botones.",
+    "url": "63_Ejercicios/63.html"
+  }
+]

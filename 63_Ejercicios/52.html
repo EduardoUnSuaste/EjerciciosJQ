@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+
+</head>
+
+<body>
+    <div data-role="page">
+        <div data-role="header">
+            <h1>Menu Select</h1>
+        </div>
+
+        <div data-role="main" class="ui-content">
+            <form method="post" action="demoform.asp">
+                <fieldset class="ui-field-contain">
+                    <label for="day">Selecciona el dia</label>
+                    <select name="day" id="day">
+                        <option value="mon">Lunes</option>
+                        <option value="tue">Martes</option>
+                        <option value="wed">Miercoles</option>
+                        <option value="thu">Jueves</option>
+                        <option value="fri">Viernes</option>
+                        <option value="sat">Sabado</option>
+                        <option value="sun">Domingo</option>
+                    </select>
+                </fieldset>
+                <input type="submit" data-inline="true" value="Submit">
+            </form>
+        </div>
+    </div>
+
+</body>
+
+</html>
