@@ -1,1 +1,1 @@
-web: php index.php
+web: html index.html
